@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic plan generator v3.0",
+  "description": "人工智能训练师备考指挥中枢。基于存量优先法则，动态匹配知识点与生态工具（Code Doctor/实验舱），提供路线图式备考方案。",
+  "requestFramePermissions": []
+}
